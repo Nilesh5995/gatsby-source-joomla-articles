@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-source-joomla-articles",
-  "description": "Gatsby source plugin for building websites using the Joomla articles  as a data source.",
+  "name": "@nilesh_s_techjoomla/gatsby-source-joomla-articles",
   "version": "1.0.0",
+  "description": "Gatsby source plugin for building websites using the Joomla articles  as a data source.",
   "main": "index.js",
   "keywords": [
     "gatsby",
@@ -15,7 +15,6 @@
     "node-fetch": "^2.6.0",
     "query-string": "^6.8.2",
     "axios": "^0.19.0"
-    
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
@@ -30,5 +29,13 @@
   },
   "engines": {
     "node": ">=8.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilesh5995/gatsby-source-joomla-articles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nilesh5995/gatsby-source-joomla-articles/issues"
+  },
+  "homepage": "https://github.com/Nilesh5995/gatsby-source-joomla-articles#readme"
 }
